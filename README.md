@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2E1065,50:7E22CE,100:A855F7&text=Juliane%20Torres&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20💜&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2E1065,50:7E22CE,100:A855F7&text=Juliane%20Lino&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20💜&descAlignY=60"/>
 
-# 👋 Juliane Torres! 💜✨
+# 👋 Juliane Lino! 💜✨
 
 ### Building APIs ⚡ | Crafting Interfaces 🎨 | Living the Fedora Life 🐧
 
